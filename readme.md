@@ -1,6 +1,6 @@
 # Plan Of Action
 
-<!-- - Import Google Maps into the Window
+ - Import Google Maps into the Window
 
 - Add the header `Store Locator` 
 
